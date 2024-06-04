@@ -20,7 +20,8 @@ ol {
 
 .main-content {
   padding-left: 88px;
-  padding-top: 80px;
+  /* padding-top: 80px; */
+  padding-top: 20px;
   padding-right: 40px;
   padding-bottom: 80px;
   box-sizing: border-box;
@@ -28,7 +29,7 @@ ol {
 
 .sidebar {
   /* background: #e0ebfe; */
-  padding-top: 40px;
+  /* padding-top: 40px; */
   padding-bottom: 40px;
   box-sizing: border-box;
   width: 370px;
